@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-cd Tshake
+cd NEON
 screen -S Neon -X kill
 screen -S Neon ./Neon
